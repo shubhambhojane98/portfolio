@@ -45,7 +45,10 @@ const Portfolio = () => {
       <h3 className="text-3xl py-1 dark:text-white ">Portfolio</h3>
       <div className="md:grid grid-cols-3 gap-5">
         {data.map((product) => (
-          <div className=" flex flex-col justify-around max-w-xl text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
+          <div
+            key={product.id}
+            className=" flex flex-col justify-around max-w-xl text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1"
+          >
             <h1 className="mb-5">{product.title}</h1>
             <p className="mb-5">{product.desc}</p>
             <Link href={product.link}>

@@ -38,6 +38,13 @@ const Portfolio = () => {
       title: "Crypto-Tracker",
       desc: " Cryptocurrency Tracker App in React JS, Material UI and Chart JS",
     },
+    {
+      id: 6,
+      img: "",
+      link: "https://netflix-clone-shubhambhojane98.vercel.app/",
+      title: "Netflix-Clone",
+      desc: " Netflix-Clone in Next JS 14, Shadcn Ui , NextAuth and Supabase",
+    },
   ];
 
   return (

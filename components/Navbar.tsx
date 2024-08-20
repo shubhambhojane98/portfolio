@@ -18,14 +18,14 @@ const Navbar = ({ darkMode, setDarkMode }: Props) => {
               className="cursor-pointer 2xl"
             />
           </li>
-          <li>
+          {/* <li>
             <a
               href="https://drive.google.com/file/d/1VjDqpMus5mkSSUTKqTIVuRJ637VjzyVp/view?usp=share_link"
               className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white py-2 px-4 rounded-md ml-8"
             >
               Resume
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </div>

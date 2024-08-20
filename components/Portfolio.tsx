@@ -45,6 +45,13 @@ const Portfolio = () => {
       title: "Netflix-Clone",
       desc: " Netflix-Clone in Next JS 14, Shadcn Ui , NextAuth and Supabase",
     },
+    {
+      id: 6,
+      img: "",
+      link: "https://chat-with-pdf-peach-phi.vercel.app/",
+      title: "Chat-With-Pdf",
+      desc: "ChatWithPDF is an AI-powered tool built with Next.js, ChatGPT, Pinecone, and LangChain, enabling seamless interactions with PDF documents. The app integrates Firebase for backend services, Tailwind CSS for responsive design, and Stripe for secure payment processing, delivering a smooth and intuitive user experience.",
+    },
   ];
 
   return (

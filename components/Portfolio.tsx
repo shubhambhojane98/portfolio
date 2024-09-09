@@ -48,9 +48,9 @@ const Portfolio = () => {
     {
       id: 6,
       img: "",
-      link: "https://chat-with-pdf-peach-phi.vercel.app/",
-      title: "Chat-With-Pdf",
-      desc: "ChatWithPDF is an AI-powered tool built with Next.js, ChatGPT, Pinecone, and LangChain, enabling seamless interactions with PDF documents. The app integrates Firebase for backend services, Tailwind CSS for responsive design, and Stripe for secure payment processing, delivering a smooth and intuitive user experience.",
+      link: "https://www.pdfdialogue.com/",
+      title: "PDF Dialogue",
+      desc: "PDF Dialogue is an AI-powered tool built with Next.js, ChatGPT, Pinecone, and LangChain, enabling seamless interactions with PDF documents. The app integrates Firebase for backend services, Tailwind CSS for responsive design, and Paypal for secure payment processing, delivering a smooth and intuitive user experience.",
     },
   ];
 

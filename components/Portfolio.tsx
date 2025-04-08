@@ -13,7 +13,7 @@ const Portfolio = () => {
     {
       id: 2,
       img: "",
-      link: "https://shubhambhojane98.github.io/box-office/#/",
+      link: "https://travel-planner-nu-pearl.vercel.app/",
       title: "AI Travel-Planner",
       desc: "AI Travel Planner – A smart itinerary generator that uses ChatGPT and Geo APIs to create personalized travel plans based on destination, budget, travel type, and preferred activities.",
     },

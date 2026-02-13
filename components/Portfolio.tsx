@@ -20,44 +20,51 @@ const Portfolio = () => {
     {
       id: 3,
       img: "",
+      link: "https://your-ai-career-agent-link.com/", // replace with actual deployed link
+      title: "AI Career Agent",
+      desc: "AI Career Agent – An intelligent career assistant built with FastAPI, Python, LangChain, and OpenAI. It analyzes resumes, job descriptions, and interview transcripts to generate personalized feedback, skill gap analysis, improvement suggestions, and career guidance. Designed with a scalable backend architecture and modern AI workflow orchestration.",
+    },
+    {
+      id: 4,
+      img: "",
       link: "https://shubhambhojane98.github.io/box-office/#/",
       title: "Box-Office-App",
       desc: "A movie search app that consumes an external API to display data.",
     },
     {
-      id: 4,
+      id: 5,
       img: "",
       link: "https://tictac2.surge.sh/",
       title: "Tic Tac Toe",
       desc: "The Tic Tac Toe Game in React",
     },
     {
-      id: 5,
+      id: 6,
       img: "",
       link: "https://airbnb-clone-53d70.web.app/",
       title: "Airbnb",
       desc: "Airbnb UI Clone",
     },
     {
-      id: 6,
+      id: 7,
       img: "",
       link: "https://chat-web-app-54ef0.firebaseapp.com/signin",
       title: "Chat-App",
       desc: "Real-time chat with rooms, message likes, social media auth, role-based permissions, file upload, audio messages and real-time notifications.",
     },
     {
-      id: 7,
+      id: 8,
       img: "",
       link: "https://crypto-tracker-e5741.web.app/",
       title: "Crypto-Tracker",
-      desc: " Cryptocurrency Tracker App in React JS, Material UI and Chart JS",
+      desc: "Cryptocurrency Tracker App in React JS, Material UI and Chart JS",
     },
     {
-      id: 8,
+      id: 9,
       img: "",
       link: "https://netflix-clone-shubhambhojane98.vercel.app/",
       title: "Netflix-Clone",
-      desc: " Netflix-Clone in Next JS 14, Shadcn Ui , NextAuth and Supabase",
+      desc: "Netflix Clone built with Next.js 14, Shadcn UI, NextAuth, and Supabase",
     },
   ];
 

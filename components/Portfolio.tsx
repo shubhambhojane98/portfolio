@@ -20,7 +20,7 @@ const Portfolio = () => {
     {
       id: 3,
       img: "",
-      link: "https://your-ai-career-agent-link.com/", // replace with actual deployed link
+      link: "https://ai-career-agent-topaz.vercel.app/", // replace with actual deployed link
       title: "AI Career Agent",
       desc: "AI Career Agent – An intelligent career assistant built with FastAPI, Python, LangChain, and OpenAI. It analyzes resumes, job descriptions, and interview transcripts to generate personalized feedback, skill gap analysis, improvement suggestions, and career guidance. Designed with a scalable backend architecture and modern AI workflow orchestration.",
     },

@@ -6,23 +6,23 @@ const Portfolio = () => {
     {
       id: 1,
       img: "",
+      link: "https://ai-career-agent-topaz.vercel.app/", // replace with actual deployed link
+      title: "AI Career Agent",
+      desc: "AI Career Agent – An intelligent career assistant built with FastAPI, Python, LangChain, and OpenAI. It analyzes resumes, job descriptions, and interview transcripts to generate personalized feedback, skill gap analysis, improvement suggestions, and career guidance. Designed with a scalable backend architecture and modern AI workflow orchestration.",
+    },
+    {
+      id: 2,
+      img: "",
       link: "https://chat-with-pdf-peach-phi.vercel.app/",
       title: "PDF Dialogue",
       desc: "PDF Dialogue is an AI-powered tool built with Next.js, ChatGPT, Pinecone, and LangChain, enabling seamless interactions with PDF documents. The app integrates Firebase for backend services, Tailwind CSS for responsive design, and Paypal for secure payment processing, delivering a smooth and intuitive user experience.",
     },
     {
-      id: 2,
+      id: 3,
       img: "",
       link: "https://travel-planner-nu-pearl.vercel.app/",
       title: "AI Travel-Planner",
       desc: "AI Travel Planner – A smart itinerary generator that uses ChatGPT and Geo APIs to create personalized travel plans based on destination, budget, travel type, and preferred activities.",
-    },
-    {
-      id: 3,
-      img: "",
-      link: "https://ai-career-agent-topaz.vercel.app/", // replace with actual deployed link
-      title: "AI Career Agent",
-      desc: "AI Career Agent – An intelligent career assistant built with FastAPI, Python, LangChain, and OpenAI. It analyzes resumes, job descriptions, and interview transcripts to generate personalized feedback, skill gap analysis, improvement suggestions, and career guidance. Designed with a scalable backend architecture and modern AI workflow orchestration.",
     },
     {
       id: 4,
